@@ -26,6 +26,7 @@
         android:layout_marginStart="20dp"
         android:ems="10"
         android:inputType="textPersonName"
+        android:hint="Ingrese un nombre"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent"
